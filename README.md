@@ -16,7 +16,8 @@ To resolve these violations and create a highly cohesive, loosely coupled system
 
 ### Code Comparison
 #### Original Code (Violates SOLID)
-```public interface Order {
+```
+public interface Order {
 
   void calculateTotal(double price, int quantity);
 
