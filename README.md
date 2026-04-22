@@ -132,7 +132,7 @@ public class OrderTest {
 ```
 
 ### UML Diagram
-<img src="https://github.com/albeetter/SOLIDPrinciples/blob/master/ClassDiagramSOLIDPrinciple.png" alt="classdiagram">
+<img src="https://github.com/albeetter/SOLIDPrinciples/blob/main/ClassDiagramSOLIDPrinciple.png" alt="classdiagram">
 
 
 
